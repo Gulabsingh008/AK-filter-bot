@@ -99,10 +99,10 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', True))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'api.shareus.io')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'hRPS5vvZc0OGOEUQJMJzPiojoVK2'')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'hRPS5vvZc0OGOEUQJMJzPiojoVK2')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'api.shareus.io')
-VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'hRPS5vvZc0OGOEUQJMJzPiojoVK2'')
+VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'hRPS5vvZc0OGOEUQJMJzPiojoVK2')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 
 # Shortlink Info
