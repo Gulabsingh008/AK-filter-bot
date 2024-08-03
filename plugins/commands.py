@@ -466,7 +466,7 @@ async def start(client, message):
                         InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b>You are not verified !\nKindly verify to continue !</b>",
+                        text="<b>📌You are not verified !\nKindly verify to continue !\nIf You Don't Want Verification,\nThen You Can Buy Our Subscription./plan\nThank you❤️</b>",
                         protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
@@ -539,7 +539,7 @@ async def start(client, message):
                         InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b>You are not verified !\nKindly verify to continue !</b>",
+                        text="<b>📌You are not verified !\nKindly verify to continue !\nIf You Don't Want Verification,\nThen You Can Buy Our Subscription./plan\nThank you❤️</b>",
                         protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
@@ -611,7 +611,7 @@ async def start(client, message):
                 InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
             ]]
             await message.reply_text(
-                text="<b>You are not verified !\nKindly verify to continue !</b>",
+                text="<b>📌You are not verified !\nKindly verify to continue !\nIf You Don't Want Verification,\nThen You Can Buy Our Subscription./plan\nThank you❤️</b>",
                 protect_content=True,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
