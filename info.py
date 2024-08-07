@@ -71,10 +71,10 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "") # Necessary If clone 
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+KNvh1JsCoO04YzQ1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Ak_Movie_Worlds')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+7hV59X8wGaNmZmNl')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/download_movies_wabseries')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+qeVMTJ84gZcwMjdl') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'ak_movieworldss') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
