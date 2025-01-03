@@ -22,6 +22,7 @@ pytz
 aiofiles
 hachoir
 python-decouple 
+telegraph
 ffmpeg
 youtube_search
 pymongo[srv]==3.12.3 
